@@ -1,0 +1,46 @@
+.title{ 
+    margin-bottom: 10px;
+    font-family: Segoe Print;
+    text-align:center; 
+    width: 210px; 
+    color: #B0C4DE; 
+    border: solid gray 2px; 
+    margin: 0 auto;
+    } 
+.main{
+    border: 2px solid gray;
+    width: 200px;
+    margin: 0 auto;
+    background-color: #B0C4DE;
+    margin-top: 2px;
+    padding: 01px;
+}
+.result {
+    width: 97%;
+    color: black;
+    padding: 2px;
+}
+
+.btnsatting{
+    margin: 2px;
+}
+.btn{
+    width: 36px;
+    background-color:#F0F8FF;
+    border: .3px solid gray;
+}
+
+.btn1{
+    width: 76px;
+    background-color:#F0F8FF;
+    border: .3px solid gray;
+}
+.lastbtn{
+    margin: 2px;
+}
+.lastbtn .btn2{
+    width: 36px;
+    background-color:#F0F8FF;
+    border: .3px solid gray;
+
+}
